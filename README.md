@@ -1,9 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://4kwallpapers.com/images/walls/thumbs_3t/13653.png)
-
-<h1 align="center">Hi 👋, I'm Sakshi</h1>
-<h3 align="center">A passionate data scientist.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/text-work-computer-working-penguin-gif-16760829579653810809">
-
+<h1 align="center">Hello there 👋, I'm Sakshi</h1>
+<h3 align="center">A passionate Data Scientist .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshiagarwal0717&label=Profile%20views&color=0e75b6&style=flat" alt="sakshiagarwal0717" /> </p>
 
